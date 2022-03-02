@@ -1,0 +1,18 @@
+p {
+  font-size: larger;
+  color: purple;
+  font-family: arial;
+}
+
+.button {
+  background-color: red;
+  padding: 20px 40px;
+  color: white;
+  align-left: 200px;
+  border-radius: 50%;
+}
+
+#froggy {
+  width: 10%;
+  height: auto;
+}
