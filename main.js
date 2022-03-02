@@ -8,6 +8,8 @@ function init() {
 
 }
 const moveRight = () => {
+  const audio = new Audio('frog-jump-spring-cartoon.mp3');
+  audio.play();
   const speed = () => {
     const range = document.getElementById("speed").value
     let arr = range.split('')
